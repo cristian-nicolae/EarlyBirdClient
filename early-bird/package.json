@@ -13,7 +13,7 @@
     "@unicef/material-ui-currency-textfield": "^0.8.6",
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
-    "date-fns": "^2.21.3",
+    "date-fns": "^2.30.0",
     "firebase": "^8.4.3",
     "jquery": "^3.6.0",
     "jss": "^10.6.0",
